@@ -5,11 +5,3 @@
 A major mode for working with [Nextflow](https://www.nextflow.io/) files.
 
 
-## Installing
-
-### Using MELPA and use-package
-
-```elisp
-(use-package nextflow-mode
-  :ensure t)
-```
